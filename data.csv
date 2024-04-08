@@ -1,0 +1,2 @@
+name,image,description,scheduled_start_time,scheduled_end_time,entity_metadata
+event example,images/image-example.jpg,description example,2024-12-11T16:00,2024-12-11T20:00,location example
