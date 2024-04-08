@@ -1,5 +1,6 @@
 # Add Discord events from CSV
-If you need to add a lot of Discord events by hand and have been finding this for a long time, this project should help you.
+Are you tired of adding Discord events by hand? This project can potentially help you.
+Write your events as a CSV file and insert them all at once.
 ## Requirements
 * Node.js (v16.11.0 or higher)
 * [Configure your app bot](https://discordjs.guide/preparations/setting-up-a-bot-application.html) on [Discord Developer Portal](https://discord.com/developers/applications)
